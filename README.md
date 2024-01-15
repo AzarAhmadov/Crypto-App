@@ -2,7 +2,7 @@
 You can search for the crypto currency you want and instantly access detailed information about it.
 
 ## Demo
-Live demo : demo url
+Live demo : https://crypto-app-rtk.vercel.app/
 
 ## Features
 - Search Functionality: Search for specific cryptocurrencies by name or.
