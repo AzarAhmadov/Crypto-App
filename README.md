@@ -18,6 +18,7 @@ Live demo : https://crypto-app-rtk.vercel.app/
 - React Bootstap
 - React router dom v6.4
 - Dompurify
+- CoinGecko API, limit of 30 calls/minute
 
 ## Contributing
 Open to your ideas! Share feedback, report issues, or send pull requests to enhance this project
